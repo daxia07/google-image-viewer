@@ -1,0 +1,27 @@
+{
+  "name": "google-image-viewer",
+  "version": "1.0.0",
+  "description": "image url api backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daxia07/google-image-viewer.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "limingxia <limingxia07@gmail.com> (http://www.prawn-dumpling.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daxia07/google-image-viewer/issues"
+  },
+  "homepage": "https://github.com/daxia07/google-image-viewer#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-google-drive": "^1.1.2"
+  }
+}
